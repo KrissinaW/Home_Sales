@@ -40,9 +40,6 @@ In this challenge, I have used my knowledge of SparkSQL to determine key metrics
 
 *A*- <img src="https://github.com/user-attachments/assets/0e25b04e-c6c9-41cd-9227-f11fb942d090" alt="Screenshot 2024-08-16 151625" width="200"/>
 
-# Support and Resources
-OpenAI. (2023). ChatGPT. Retrieved from https://www.openai.com/research/chatgpt
-
 # Requirements
 - A Spark DataFrame is created from the dataset. (5 points)
 - A temporary table of the original DataFrame is created. (10 points)
@@ -56,3 +53,7 @@ OpenAI. (2023). ChatGPT. Retrieved from https://www.openai.com/research/chatgpt
 - A temporary table of the parquet data is created. (10 points)
 - The query from step 6 is run on the parquet temporary table, and the run time is computed. (10 points)
 - The "home_sales" temporary table is uncached and verified. (10 points)
+
+  # Support and Resources
+OpenAI. (2023). ChatGPT. Retrieved from https://www.openai.com/research/chatgpt
+
