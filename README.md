@@ -38,7 +38,7 @@ In this challenge, I have used my knowledge of SparkSQL to determine key metrics
 
 *?* - What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
-*A*- <img src="https://github.com/user-attachments/assets/0e25b04e-c6c9-41cd-9227-f11fb942d090" alt="Screenshot 2024-08-16 151625" width="300"/>
+*A*- <img src="https://github.com/user-attachments/assets/0e25b04e-c6c9-41cd-9227-f11fb942d090" alt="Screenshot 2024-08-16 151625" width="200"/>
 
 # Support and Resources
 
