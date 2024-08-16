@@ -2,7 +2,7 @@
 Module 22 Challenge
 
 ![housing-market-home-sales-real-estate](https://github.com/user-attachments/assets/1c6b52ae-a7c7-45c8-ae75-6ff214ed932c)
-
+*Image credit: [pymnts.com](https://www.pymnts.com/real-estate/2020/us-home-sales-hit-highest-january-peak-in-years/)*
 
 # Overview
 In this challenge, I have used my knowledge of SparkSQL to determine key metrics about home sales data. Then I used Spark to create temporary views, partition the data, cache and uncache a temporary table, and verified that the table has been uncached.
