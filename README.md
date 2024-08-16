@@ -41,7 +41,7 @@ In this challenge, I have used my knowledge of SparkSQL to determine key metrics
 *A*- <img src="https://github.com/user-attachments/assets/0e25b04e-c6c9-41cd-9227-f11fb942d090" alt="Screenshot 2024-08-16 151625" width="200"/>
 
 # Support and Resources
-
+OpenAI. (2023). ChatGPT. Retrieved from https://www.openai.com/research/chatgpt
 
 # Requirements
 - A Spark DataFrame is created from the dataset. (5 points)
