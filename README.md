@@ -28,18 +28,17 @@ In this challenge, I have used my knowledge of SparkSQL to determine key metrics
 
 *A*- <img src="https://github.com/user-attachments/assets/99833278-391b-492c-9567-d7292ee611b6" alt="Screenshot 2024-08-16 151625" width="300"/>
 
-
 *?* - What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 
-*A*- ![image](https://github.com/user-attachments/assets/7020322d-8f6d-4514-ba7f-e040d6f111db)
+*A*- <img src="https://github.com/user-attachments/assets/7020322d-8f6d-4514-ba7f-e040d6f111db" alt="Screenshot 2024-08-16 151625" width="300"/>
   
 *?* - What is the average price of a home for each year the home was built, that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
 
-*A*-![image](https://github.com/user-attachments/assets/ac59c816-497c-4497-a2e2-5bc4d3fc24f5)
+*A*- <img src="https://github.com/user-attachments/assets/ac59c816-497c-4497-a2e2-5bc4d3fc24f5" alt="Screenshot 2024-08-16 151625" width="300"/>
 
 *?* - What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
-*A*- ![image](https://github.com/user-attachments/assets/0e25b04e-c6c9-41cd-9227-f11fb942d090)
+*A*- <img src="https://github.com/user-attachments/assets/0e25b04e-c6c9-41cd-9227-f11fb942d090" alt="Screenshot 2024-08-16 151625" width="300"/>
 
 # Support and Resources
 
