@@ -26,7 +26,7 @@ In this challenge, I have used my knowledge of SparkSQL to determine key metrics
 
 *?* -  What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
 
-     *A*-![image](https://github.com/user-attachments/assets/66773ced-1667-45bc-96b9-1a5b4747a2c0)
+     *A*- [image](https://github.com/user-attachments/assets/66773ced-1667-45bc-96b9-1a5b4747a2c0)
 
 *?* - What is the average price of a home for each year the home was built, that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 
